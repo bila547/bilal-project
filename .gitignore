@@ -1,2 +1,2 @@
 *.txt
-!specific_file1
+!specific_ignore.txt
